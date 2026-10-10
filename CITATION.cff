@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "chaincanvas"
+abstract: "Draw compact monochrome pixel art and export an onchain-ready SVG payload."
+repository-code: "https://github.com/nirholas/chaincanvas"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

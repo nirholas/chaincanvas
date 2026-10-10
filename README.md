@@ -1,5 +1,10 @@
 # ChainCanvas
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/chaincanvas?style=flat&logo=github)](https://github.com/nirholas/chaincanvas/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/chaincanvas?style=flat)](https://github.com/nirholas/chaincanvas/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/chaincanvas/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/chaincanvas/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Draw compact monochrome pixel art and export an onchain-ready SVG payload.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/chaincanvas&type=Date)](https://www.star-history.com/#nirholas/chaincanvas&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If chaincanvas saves you time, **[star it on GitHub](https://github.com/nirholas/chaincanvas)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=chaincanvas%3A%20Draw%20compact%20monochrome%20pixel%20art%20and%20export%20an%20onchain-ready%20SVG%20payload&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fchaincanvas) · [Share on Bluesky](https://bsky.app/intent/compose?text=chaincanvas%3A%20Draw%20compact%20monochrome%20pixel%20art%20and%20export%20an%20onchain-ready%20SVG%20payload%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fchaincanvas) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fchaincanvas) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fchaincanvas&t=chaincanvas%3A%20Draw%20compact%20monochrome%20pixel%20art%20and%20export%20an%20onchain-ready%20SVG%20payload) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fchaincanvas&title=chaincanvas%3A%20Draw%20compact%20monochrome%20pixel%20art%20and%20export%20an%20onchain-ready%20SVG%20payload)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/chaincanvas` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/chaincanvas/issues) or [start a discussion](https://github.com/nirholas/chaincanvas/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/chaincanvas)](https://github.com/nirholas/chaincanvas/graphs/contributors)
+
+<!-- /three.ws:growth -->
