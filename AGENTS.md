@@ -8,7 +8,7 @@ Draw compact monochrome pixel art and export an onchain-ready SVG payload.
 
 - Source: https://github.com/nirholas/chaincanvas
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
